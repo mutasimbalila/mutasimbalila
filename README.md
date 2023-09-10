@@ -7,7 +7,7 @@ Software engineer with a passion for developing software solutions. My expertise
 My goal is to build meaningful products that drive positive change and make a real impact on people life.
 
 
----
+ 
 
 ### 🧰 Languages and Tools
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
@@ -42,6 +42,8 @@ My goal is to build meaningful products that drive positive change and make a re
  
 <br />
 ---
+
+### : :
 
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
