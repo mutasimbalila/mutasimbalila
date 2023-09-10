@@ -16,3 +16,11 @@ Software engineer with a passion for developing software solutions. My expertise
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 #
+
+<details>
+ <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+   dumy text dumy text dumy text
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight
+
