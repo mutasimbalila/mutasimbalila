@@ -1,6 +1,16 @@
 
 # 👨‍💻 Mohammed Almutasim
-
+<div id="badges">
+  <a href="www.linkedin.com/in/mutasimbalila">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/AlmutasimAh">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 **`Software Enginner (Flutter Developer/Ul/UX Designer/Computer Technician)`**
 
 Software engineer with a passion for developing software solutions. My expertise lies in creating applications using Flutter, UX Designer and Computer Technician.After completing a Computer Science degree, I decided to get into software development. I found my love for Flutter development and UX Design, which I've been passionate about ever since. With a deep knowledge of the latest technologies, I'm able to create user-friendly and beautiful designs that bring out the best of the user experience. I'm constantly learning and exploring new ways to push the boundaries of Flutter and UX design to create innovative products that will last. I'm also a computer technician with 8+ years of experience. With a focus on working hard and continuing to learn. 
