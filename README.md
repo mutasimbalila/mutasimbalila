@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mohammed Almutasim
+# 👨🏿‍💻 Mohammed Almutasim
 
 **`Software Enginner (Developer/Filmmaker/Creator)`**
 
