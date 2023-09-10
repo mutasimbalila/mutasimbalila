@@ -19,8 +19,7 @@ Software engineer with a passion for developing software solutions. My expertise
 
 <details>
  <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
-   dumy text dumy text dumy text
+   dummy text.
 
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
-
