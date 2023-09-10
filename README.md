@@ -5,6 +5,8 @@
 Software engineer with a passion for developing software solutions. My expertise lies in creating applications using Flutter, UX Designer and Computer Technician.After completing a Computer Science degree, I decided to get into software development. I found my love for Flutter development and UX Design, which I've been passionate about ever since. With a deep knowledge of the latest technologies, I'm able to create user-friendly and beautiful designs that bring out the best of the user experience. I'm constantly learning and exploring new ways to push the boundaries of Flutter and UX design to create innovative products that will last. I'm also a computer technician with 8+ years of experience. With a focus on working hard and continuing to learn. 
 My goal is to build meaningful products that drive positive change and make a real impact on people life.
 
+---
+
 ###
 
 <div id="badges">
@@ -19,6 +21,8 @@ My goal is to build meaningful products that drive positive change and make a re
   </a>
 </div>
  
+---
+
 ###
 ### 🧰 Languages and Tools
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
