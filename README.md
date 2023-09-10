@@ -43,9 +43,7 @@ My goal is to build meaningful products that drive positive change and make a re
 <br />
 
 
-<details>
-<summary><h3>👨‍💻 Coding Journey</h3></summary>
-   <div id="header" align="center">
+  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
   <a href="your-linkedin-URL">
@@ -63,4 +61,5 @@ My goal is to build meaningful products that drive positive change and make a re
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 
