@@ -45,7 +45,7 @@ My goal is to build meaningful products that drive positive change and make a re
 
 ---
 
-### :writing_hand: Blog Posts :
+###
   <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
