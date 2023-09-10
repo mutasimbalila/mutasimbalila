@@ -16,8 +16,7 @@ My goal is to build meaningful products that drive positive change and make a re
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
- 
----
+
 
 ###
 ### 🧰 Languages and Tools
