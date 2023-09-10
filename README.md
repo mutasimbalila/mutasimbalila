@@ -1,4 +1,4 @@
-# 👨🏿‍💻 Mohammed Almutasim
+# 🧔 Mohammed Almutasim
 
 **`Software Enginner (Flutter Developer/Ul/UX Designer/Computer Technician)`**
 
@@ -43,6 +43,6 @@ My goal is to build meaningful products that drive positive change and make a re
 
 
 <details>
-<summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+<summary><h3>👨‍💻 Coding Journey</h3></summary>
    ......
 
