@@ -9,4 +9,7 @@ Software engineer with a passion for developing software solutions. My expertise
    <p align="left">
           <a href="https://github.com/mutasimbalila?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mutasimbalila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <p align="left">
+          <a href="https://github.com/mutasimbalila?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/mutasimbalila?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=linkedin&label=Follow&logoColor=white"/></a>
    </p>
