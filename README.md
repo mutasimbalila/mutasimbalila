@@ -60,5 +60,7 @@ My goal is to build meaningful products that drive positive change and make a re
 </div>
 </div>
 
+---
 
+### :fire: My Stats :
 
