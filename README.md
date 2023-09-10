@@ -61,6 +61,5 @@ My goal is to build meaningful products that drive positive change and make a re
 </div>
 </div>
 
----
-
-### :writing_hand: Blog Posts :
+###
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
