@@ -6,7 +6,7 @@ Software engineer with a passion for developing software solutions. My expertise
 My goal is to build meaningful products that drive positive change and make a real impact on people life.
 
 <div id="badges">
-  <a href="www.linkedin.com/in/mutasimbalila">
+  <a href="https://www.linkedin.com/in/mutasimbalila/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
