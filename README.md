@@ -1,6 +1,6 @@
 
 # 👨‍💻 Mohammed Almutasim
-**`Software Enginner (Flutter Developer/Ul/UX Designer/Computer Technician)`**
+**`Software Enginner (Flutter Developer)`**
 
 Software engineer with a passion for developing software solutions. My expertise lies in creating applications using Flutter, UX Designer and Computer Technician. After completing a Computer Science degree, I decided to get into software development. I found my love for Flutter development  , which I've been passionate about ever since. With a deep knowledge of the latest technologies, I'm able to create user-friendly and beautiful designs that bring out the best of the user experience. I'm constantly learning and exploring new ways to push the boundaries of Flutter and UX design to create innovative products that will last. I'm also a computer technician with 8+ years of experience. With a focus on working hard and continuing to learn. My goal is to build meaningful and productive projects that drive positive change and make a real impact on people's lives.
 
