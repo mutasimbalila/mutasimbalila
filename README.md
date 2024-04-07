@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Almutasim</h1>
 <h3 align="center">Software engineer with a passion for developing software technologies. My expertise lies in constructing applications using Flutter, and with almost two-year experience in Android Java and well understanding on iOS Swift language.</h3>
 
-<p align="left"> <a href="https://twitter.com/almutasimah" target="blank"><img src="https://img.shields.io/twitter/follow/almutasimah?logo=twitter&style=for-the-badge" alt="almutasimah" /></a> </p>
+
 
 - 👨‍💻 All of my projects in portfolio [https://mutasimbalila.netlify.app/](https://mutasimbalila.netlify.app/)
 
