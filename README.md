@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mutasimbalila" alt="mutasimbalila" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/almutasimah" target="blank"><img src="https://img.shields.io/twitter/follow/almutasimah?logo=twitter&style=for-the-badge" alt="almutasimah" /></a> </p>
+
 
 - 👨‍💻 All of my projects in portfolio [https://mutasimbalila.netlify.app/](https://mutasimbalila.netlify.app/)
 
