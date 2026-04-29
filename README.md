@@ -74,14 +74,6 @@ I bring enterprise thinking to every line of code I write.
 
 ---
 
-## 📊 GitHub Stats
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutasimbalila&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mutasimbalila&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/mutasimbalila)
 - 📧 [mutasimbalila@gmail.com](mailto:mutasimbalila@gmail.com)
