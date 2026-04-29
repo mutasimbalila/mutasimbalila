@@ -109,4 +109,4 @@ I bring enterprise thinking to every line of code I write.
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/mutasimbalila)
 - 📧 [mutasimbalila@gmail.com](mailto:mutasimbalila@gmail.com)
-- 🌐 Based in Oman | Valid UAE Visa | Open to Relocation
+- 🌐 Based in Oman | Open to Relocation
