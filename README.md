@@ -55,6 +55,7 @@ I bring enterprise thinking to every line of code I write.
 
 | App | Version | Google Play | App Store |
 |-----|---------|-------------|-----------|
+| **Qudurati** | EdTech Platform | Specialist | [Google Play](https://play.google.com/store/apps/details?id=com.qudurati.specialist) | — |
 | **Lahmtna** | Client | [Google Play](your-link) | [App Store](your-link) |
 | **Lahmtna** | Driver | [Google Play](your-link) | — |
 | **Consult** | Client | [Google Play](your-link) | [App Store](your-link) |
