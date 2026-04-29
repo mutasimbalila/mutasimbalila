@@ -52,6 +52,14 @@ I bring enterprise thinking to every line of code I write.
 | **Layaly Brand** | Luxury E-commerce | 🇦🇪 UAE | [App Store](https://apps.apple.com/sa/app/layaly-brand/id6761905032) · [Google Play](https://play.google.com/store/apps/details?id=com.layalybrand.app) |
 ---
 
+## 🏢 Apps Built at Right for Advanced Business
+
+| App | Version | Google Play | App Store |
+|-----|---------|-------------|-----------|
+| **Consult** | Client | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult) | [App Store](https://apps.apple.com/eg/app/consultancy/id6498233540) |
+| **Consult** | Consultant | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult_consultant) | [App Store](https://apps.apple.com/eg/app/consultancy-consultant/id6741358119) |
+| **Lahmtna** | Client | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.lahmtna_client) | [App Store](https://apps.apple.com/eg/app/لحمتنا/id6737229237) |
+| **Lahmtna** | Driver | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.lahmtna_driver) | — |
 ## 🏢 Enterprise Experience
 
 ### ✈️ Khartoum International Airport — Operations Management System
