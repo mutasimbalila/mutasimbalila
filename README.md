@@ -53,21 +53,20 @@ I bring enterprise thinking to every line of code I write.
 
 ## 🏢 Apps Built at Right for Advanced Business
 
-| App | Version | Google Play | App Store |
-|-----|---------|-------------|-----------|
-| **Qudurati** | EdTech Platform | Specialist | [Google Play](https://play.google.com/store/apps/details?id=com.qudurati.specialist) | — |
-| **Lahmtna** | Client | [Google Play](your-link) | [App Store](your-link) |
-| **Lahmtna** | Driver | [Google Play](your-link) | — |
-| **Consult** | Client | [Google Play](your-link) | [App Store](your-link) |
-| **Consult** | Consultant | [Google Play](your-link) | [App Store](your-link) |
+| App | Description | Version | Google Play | App Store |
+|-----|-------------|---------|-------------|-----------|
+| **Qudurati** | Special Needs Care Center — Attendance & Management | Internal | [Google Play](https://play.google.com/store/apps/details?id=com.qudurati.specialist) | — |
+| **Lahmtna** | E-commerce & Delivery Platform | Client | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.lahmtna_client) | [App Store](https://apps.apple.com/eg/app/لحمتنا/id6737229237) |
+| **Lahmtna** | E-commerce & Delivery Platform | Driver | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.lahmtna_driver) | — |
+| **Consult** | Marketplace & Consultancy Platform | Client | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult) | [App Store](https://apps.apple.com/eg/app/consultancy/id6498233540) |
+| **Consult** | Marketplace & Consultancy Platform | Consultant | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult_consultant) | [App Store](https://apps.apple.com/eg/app/consultancy-consultant/id6741358119) |
 
-> 💡 *The above represents a selection of publicly shipped 
-> products. Additional work includes enterprise-grade systems 
-> under NDA — including an Operations Management System for 
-> Khartoum International Airport — plus SRS documentation, 
-> UI/UX design, and architectural planning for multiple 
-> internal systems across aviation, logistics, and healthtech 
-> sectors that were not publicly released.*
+> 💡 *Each app above includes a Flutter-built Control Panel 
+> and Admin Dashboard. Additional contributions include 
+> enterprise systems under NDA (including Khartoum 
+> International Airport OMS), SRS documentation, UI/UX 
+> design, and architectural planning for internal systems 
+> across aviation, logistics, and healthtech sectors.*
 
 ## 🏢 Enterprise Experience
 
