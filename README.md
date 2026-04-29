@@ -9,16 +9,13 @@
 
 ## 🚀 About Me
 
-Flutter Developer with **4+ years of experience** building 
-production-grade, cross-platform mobile applications for 
-enterprise clients and international markets across the GCC.
+ ## 🚀 About Me
 
-- 🏢 Built an **Operations Management System for Khartoum 
-  International Airport** — digitizing 100% of ground operations
-- 📱 Delivered **4+ live apps** on App Store & Google Play 
-  across Saudi Arabia, Kuwait, and UAE
-- 🏆 Multiple award winner for **technical excellence & innovation**
-- 🌍 Based in **Oman** | Valid UAE Visa | Open to Relocation
+I build Flutter apps that solve real problems at scale.
+From architecting an **Operations Management System for 
+Khartoum International Airport** to shipping consumer apps 
+live on the App Store across Saudi Arabia, Kuwait, and UAE — 
+I bring enterprise thinking to every line of code I write.
 
 ---
 
