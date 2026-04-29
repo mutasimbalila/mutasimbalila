@@ -60,6 +60,14 @@ I bring enterprise thinking to every line of code I write.
 | **Consult** | Client | [Google Play](your-link) | [App Store](your-link) |
 | **Consult** | Consultant | [Google Play](your-link) | [App Store](your-link) |
 
+> 💡 *The above represents a selection of publicly shipped 
+> products. Additional work includes enterprise-grade systems 
+> under NDA — including an Operations Management System for 
+> Khartoum International Airport — plus SRS documentation, 
+> UI/UX design, and architectural planning for multiple 
+> internal systems across aviation, logistics, and healthtech 
+> sectors that were not publicly released.*
+
 ## 🏢 Enterprise Experience
 
 ### ✈️ Khartoum International Airport — Operations Management System
