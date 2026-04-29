@@ -9,8 +9,6 @@
 
 ## 🚀 About Me
 
- ## 🚀 About Me
-
 I build Flutter apps that solve real problems at scale.
 From architecting an **Operations Management System for 
 Khartoum International Airport** to shipping consumer apps 
