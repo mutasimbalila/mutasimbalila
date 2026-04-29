@@ -42,24 +42,24 @@ I bring enterprise thinking to every line of code I write.
 
 ---
 
-## 📱 Live Apps
+## 📱 Freelance Projects — Live on Stores
 
 | App | Category | Country | Store |
 |-----|----------|---------|-------|
-| **Masheenn** | Delivery & Transport | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com/sa/app/masheenn/id6478avar) · [Google Play](https://play.google.com/store/apps/details?id=com.digitalsightcompany.masheen) |
-| **Ishrahli** | EdTech Platform | 🇰🇼 Kuwait | [App Store](https://apps.apple.com/sa/app/ishrahli/id6478avar) · [Google Play](https://play.google.com/store/apps/details?id=com.ishrahli.ishrahli) |
-| **Mokafaati** | Loyalty & Rewards | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com/sa/app/mokafaati/id6747348125) |
-| **Layaly Brand** | Luxury E-commerce | 🇦🇪 UAE | [App Store](https://apps.apple.com/sa/app/layaly-brand/id6761905032) · [Google Play](https://play.google.com/store/apps/details?id=com.layalybrand.app) |
----
+| **Masheenn** | Delivery & Transport | 🇸🇦 Saudi Arabia | [App Store](your-link) · [Google Play](your-link) |
+| **Ishrahli** | EdTech Platform | 🇰🇼 Kuwait | [App Store](your-link) · [Google Play](your-link) |
+| **Mokafaati** | Loyalty & Rewards | 🇸🇦 Saudi Arabia | [App Store](your-link) |
+| **Layaly Brand** | Luxury E-commerce | 🇦🇪 UAE | [App Store](your-link) · [Google Play](your-link) |
 
 ## 🏢 Apps Built at Right for Advanced Business
 
 | App | Version | Google Play | App Store |
 |-----|---------|-------------|-----------|
-| **Consult** | Client | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult) | [App Store](https://apps.apple.com/eg/app/consultancy/id6498233540) |
-| **Consult** | Consultant | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult_consultant) | [App Store](https://apps.apple.com/eg/app/consultancy-consultant/id6741358119) |
-| **Lahmtna** | Client | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.lahmtna_client) | [App Store](https://apps.apple.com/eg/app/لحمتنا/id6737229237) |
-| **Lahmtna** | Driver | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.lahmtna_driver) | — |
+| **Lahmtna** | Client | [Google Play](your-link) | [App Store](your-link) |
+| **Lahmtna** | Driver | [Google Play](your-link) | — |
+| **Consult** | Client | [Google Play](your-link) | [App Store](your-link) |
+| **Consult** | Consultant | [Google Play](your-link) | [App Store](your-link) |
+
 ## 🏢 Enterprise Experience
 
 ### ✈️ Khartoum International Airport — Operations Management System
