@@ -46,8 +46,8 @@ I bring enterprise thinking to every line of code I write.
 
 | App | Category | Country | Store |
 |-----|----------|---------|-------|
-| **Masheenn** | Delivery & Transport | 🇸🇦 Saudi Arabia | [Google Play](https://play.google.com/store/apps/details?id=com.digitalsightcompany.masheen) |
-| **Ishrahli** | EdTech Platform | 🇰🇼 Kuwait | [Google Play](https://play.google.com/store/apps/details?id=com.ishrahli.ishrahli) |
+| **Masheenn** | Delivery & Transport | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com/my/app/id1372502429) · [Google Play](https://play.google.com/store/apps/details?id=com.digitalsightcompany.masheen) |
+| **Ishrahli** | EdTech Platform | 🇰🇼 Kuwait | [App Store](https://apps.apple.com/us/app/id6468482638) · [Google Play](https://play.google.com/store/apps/details?id=com.ishrahli.ishrahli) |
 | **Mokafaati** | Loyalty & Rewards | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com/sa/app/مكافأتي/id6747348125) |
 | **Layaly Brand** | Luxury E-commerce | 🇦🇪 UAE | [App Store](https://apps.apple.com/sa/app/layaly-brand/id6761905032) · [Google Play](https://play.google.com/store/apps/details?id=com.layalybrand.app) |
 
