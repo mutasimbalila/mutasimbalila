@@ -1,5 +1,5 @@
 # Hi, I'm Mohammed Almutasim 👋
-### Flutter Developer | Cross-Platform Mobile Apps | GCC & Enterprise
+### Flutter Developer | Cross-Platform Mobile Apps 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mutasimbalila)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mutasimbalila@gmail.com)
