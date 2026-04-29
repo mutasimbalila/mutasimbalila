@@ -46,11 +46,10 @@ I bring enterprise thinking to every line of code I write.
 
 | App | Category | Country | Store |
 |-----|----------|---------|-------|
-| **Masheenn** | Delivery & Transport | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com) · [Google Play](https://play.google.com) |
-| **Ishrahli** | EdTech Platform | 🇰🇼 Kuwait | [App Store](https://apps.apple.com) |
-| **Mokafaati** | Loyalty & Rewards | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com) |
-| **Layaly Brand** | Luxury E-commerce | 🇦🇪 UAE | [App Store](https://apps.apple.com) |
-
+| **Masheenn** | Delivery & Transport | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com/sa/app/masheenn/id6478avar) · [Google Play](https://play.google.com/store/apps/details?id=com.digitalsightcompany.masheen) |
+| **Ishrahli** | EdTech Platform | 🇰🇼 Kuwait | [App Store](https://apps.apple.com/sa/app/ishrahli/id6478avar) · [Google Play](https://play.google.com/store/apps/details?id=com.ishrahli.ishrahli) |
+| **Mokafaati** | Loyalty & Rewards | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com/sa/app/mokafaati/id6747348125) |
+| **Layaly Brand** | Luxury E-commerce | 🇦🇪 UAE | [App Store](https://apps.apple.com/sa/app/layaly-brand/id6761905032) · [Google Play](https://play.google.com/store/apps/details?id=com.layalybrand.app) |
 ---
 
 ## 🏢 Enterprise Experience
