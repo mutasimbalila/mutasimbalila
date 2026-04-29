@@ -50,6 +50,7 @@ I bring enterprise thinking to every line of code I write.
 | **Ishrahli** | EdTech Platform | 🇰🇼 Kuwait | [App Store](https://apps.apple.com/us/app/id6468482638) · [Google Play](https://play.google.com/store/apps/details?id=com.ishrahli.ishrahli) |
 | **Mokafaati** | Loyalty & Rewards | 🇸🇦 Saudi Arabia | [App Store](https://apps.apple.com/sa/app/مكافأتي/id6747348125) |
 | **Layaly Brand** | Luxury E-commerce | 🇦🇪 UAE | [App Store](https://apps.apple.com/sa/app/layaly-brand/id6761905032) · [Google Play](https://play.google.com/store/apps/details?id=com.layalybrand.app) |
+| **Imamak** | Religious Services Marketplace | 🇸🇦 Saudi Arabia | [Google Play](https://play.google.com/store/apps/details?id=com.moggal.imamek) |
 
 ## 🏢 Apps Built at Right for Advanced Business
 
