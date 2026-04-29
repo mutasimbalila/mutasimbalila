@@ -73,14 +73,33 @@ I bring enterprise thinking to every line of code I write.
 ### ✈️ Khartoum International Airport — Operations Management System
 > Architected and delivered a full enterprise-scale cross-platform 
 > Operations Management System using Flutter, migrating 100% of 
-> airport ground operations from paper-based to a live digital 
-> ecosystem across Desktop and Tablet platforms.
+> airport ground operations from paper-based workflows to a live 
+> synchronized digital ecosystem across Desktop and Tablet platforms.
 
 **Key Features Built:**
-- Real-time flight tracking & status updates via WebSockets
-- Passenger manifest & ground service coordination
-- Interactive operations dashboard with live analytics
-- Multi-platform unified Flutter codebase
+- ⚡ Real-time flight tracking & status updates via WebSockets
+- 👥 Passenger manifest & ground service coordination
+- 📊 Interactive operations dashboard with live analytics
+- 🗺️ Aircraft movement tracking & resource management
+- 🔧 Unified Flutter codebase across Desktop & Tablet
+
+---
+
+### 📱 Multi-Domain Product Portfolio
+> Beyond the airport system, contributed to 7 production 
+> applications across 4 industries — each with dedicated 
+> Flutter-built Admin Panels and real-time dashboards.
+
+| Industry | Product | Type |
+|----------|---------|------|
+| 🏥 Healthtech | Qudurati | Special Needs Care Management |
+| 🛒 E-commerce | Lahmtna | Delivery Platform — Client & Driver |
+| 💼 Marketplace | Consult | Consultancy Platform — Client & Consultant |
+
+> 💡 *Additional enterprise work includes systems under NDA, 
+> SRS documentation, UI/UX design, and architectural planning 
+> for internal systems across aviation, logistics, and 
+> healthtech sectors not publicly released.*
 
 ---
 
