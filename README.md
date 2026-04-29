@@ -19,6 +19,8 @@ I bring enterprise thinking to every line of code I write.
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### Core
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -28,17 +30,34 @@ I bring enterprise thinking to every line of code I write.
 ### State Management
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Riverpod](https://img.shields.io/badge/Riverpod-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Backend & Networking
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
+### Payments
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![MyFatoorah](https://img.shields.io/badge/MyFatoorah-1DBF73?style=for-the-badge&logoColor=white)
+
+### Maps & Location
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Geolocator](https://img.shields.io/badge/Geolocator-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Local Storage
+![Hive](https://img.shields.io/badge/Hive-FF7043?style=for-the-badge&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![SharedPreferences](https://img.shields.io/badge/SharedPreferences-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Testing
+![Flutter Test](https://img.shields.io/badge/Flutter_Test-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
