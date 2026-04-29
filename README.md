@@ -61,10 +61,10 @@ I bring enterprise thinking to every line of code I write.
 | **Consult** | Marketplace & Consultancy Platform | Client | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult) | [App Store](https://apps.apple.com/eg/app/consultancy/id6498233540) |
 | **Consult** | Marketplace & Consultancy Platform | Consultant | [Google Play](https://play.google.com/store/apps/details?id=com.right_businesses.consult_consultant) | [App Store](https://apps.apple.com/eg/app/consultancy-consultant/id6741358119) |
 
-> 💡 *Each app above includes a Flutter-built Control Panel 
-> and Admin Dashboard.
+> 💡 *Each app above includes a Flutter-built Admin Panel 
+> with real-time dashboards and analytics.*
 
-## 🏢 Enterprise Experience
+## ⚡ Enterprise Experience
 
 ### ✈️ Khartoum International Airport — Operations Management System
 > Architected and delivered a full enterprise-scale cross-platform 
