@@ -56,7 +56,21 @@ I bring enterprise thinking to every line of code I write.
 ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
+## 🧠 Engineering Principles
+I follow Clean Architecture (SOLID) with
+feature-first structure, separating data,
+domain, and presentation layers for maximum
+scalability, testability, and team clarity.
 
+lib/
+├── core/           # shared utilities
+├── features/
+│   └── feature/
+│       ├── data/
+│       ├── domain/
+│       └── presentation/
+└── main.dart
 
 ---
 
