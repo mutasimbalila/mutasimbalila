@@ -63,15 +63,19 @@ feature-first structure, separating data,
 domain, and presentation layers for maximum
 scalability, testability, and team clarity.
 
+```
 lib/
-├── core/           # shared utilities
+├── core/
+│   ├── network/
+│   ├── theme/
+│   └── utils/
 ├── features/
-│   └── feature/
-│       ├── data/
-│       ├── domain/
-│       └── presentation/
+│   └── feature_name/
+│       ├── data/        # repositories, models
+│       ├── domain/      # entities, use cases
+│       └── presentation/ # bloc, screens, widgets
 └── main.dart
-
+```
 ---
 
 ## 📱 Freelance Projects — Live on Stores
