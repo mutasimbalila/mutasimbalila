@@ -71,9 +71,9 @@ lib/
 │   └── utils/
 ├── features/
 │   └── feature_name/
-│       ├── data/        # repositories, models
-│       ├── domain/      # entities, use cases
-│       └── presentation/ # bloc, screens, widgets
+│       ├── data/        
+│       ├── domain/      
+│       └── presentation/ 
 └── main.dart
 ```
 ---
